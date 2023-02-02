@@ -1,6 +1,8 @@
 import openai
 from decouple import config
+from colorama import init, Fore, Style
 
+init()
 API_KEY = config("API_KEY", cast=str)
 model_engine = "text-davinci-003"
 
@@ -37,7 +39,7 @@ def operation(key: str = API_KEY, engine: str = model_engine) -> str:
 
         response = function.choices[0].text
 
-        print(response)
+        print(Fore.YELLOW + response + Fore.RESET)
 
     return True
 
