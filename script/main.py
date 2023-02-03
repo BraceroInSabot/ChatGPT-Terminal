@@ -47,4 +47,4 @@ def operation(key: str = API_KEY, engine: str = model_engine) -> str:
 if __name__ == "__main__":
 
     operation()
-    print("\n\nAdeus")
+    print("\n\nBye bye")
