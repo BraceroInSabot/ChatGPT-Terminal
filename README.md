@@ -14,7 +14,7 @@ The Artificial Inteligence is not mine, this repo it's just a way to use ChatGPT
     <li>Clone this project</li><br>
     <li>Download Python and an IDE</li><br>
     <li>Open your terminal and paste</li><br>
-    <code>python3 -m venv venv<br>source venv/bin/activate</code> (if you are on Linux)<code><br>venv/Scripts/Activate</code> (if you are on Windows) <code><br>pip install -r requirements.txt</code>
+    <code>python3 -m venv venv<br>source venv/bin/activate</code> (if you are on Linux)<code><br>venv/Scripts/Activate</code> (if you are on Windows) <code><br>pip install -r requirements.txt</code><br><br>
     <li>Create a file named ".env" on script directory and type "API_KEY=$YOURKEY$"</li><br>
     <li>Run "main.py"</li><br>
 </ol>
@@ -26,3 +26,16 @@ The Artificial Inteligence is not mine, this repo it's just a way to use ChatGPT
     OR<br><br>
     <li>Run "python"</li>
 </ol>
+
+## Meta
+<br>
+
+<h2>Guilherme Bracero Gonzales</h2>
+
+<br>
+
+LinkedIN - [Guilherme Bracero](https://www.linkedin.com/in/guilherme-bracero/)
+<br>
+Instagram - [Bracero](https://instagram.com/guilhermebracero)
+<br>
+Email - [guibragon@gmail.com](www.gmail.com) 
